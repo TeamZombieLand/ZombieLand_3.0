@@ -1,4 +1,4 @@
-![ZombieLand v3.00](/Build/logo.png)
+![ZombieLand v3.00](/v3/logo.png)
 Zombieland - Survival Game v3.00 is classic web3 game with Multiplayer, DeFi, NFT and many more in game upgrades and different weapons to survive in zombieland.
 
 ### [Click here to Play ZombieLand v3.00](https://zombieland.online/)
@@ -44,8 +44,8 @@ https://testnet.bttcscan.com/token/0xc30E684Fa057dbcBA0cC4DBfCEe75AD79eD40C0A
 * Player can choose to play on Mainnet or Testnet
 * Fixed minor bugs and improved performance
 
-![ZombieLand v3.00](/Assets/ss1.jpg)
-![ZombieLand v3.00](/Assets/ss2.jpg)
-![ZombieLand v3.00](/Assets/ss3.jpg)
-![ZombieLand v3.00](/Assets/ss4.jpg)
+![ZombieLand v3.00](/v3/4.jpg)
+![ZombieLand v3.00](/v3/5.jpg)
+![ZombieLand v3.00](/v3/3.jpg)
+![ZombieLand v3.00](/v3/2.jpg)
 
